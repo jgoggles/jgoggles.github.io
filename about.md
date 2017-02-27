@@ -1,20 +1,31 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I am called Dan Weaver.
+  
+I use this site to:
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+* Track my [weightlifing](https://en.wikipedia.org/wiki/Olympic_weightlifting) training
+* Write about coaching weightlifing
+* Write about programming, both for weightlifing and for computers
+* Publish nonsense, probably
 
-Thanks to the following:
+I built this using:
 
-* [BASSCSS](http://basscss.com)
 * [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+* [Pixyll](https://github.com/johnotander/pixyll)
+* [Atom](https://atom.io/)
+* [GitHub](https://github.com/)
+
+I like:
+
+* [Vim keybindings](https://hea-www.harvard.edu/~fine/Tech/vi.html)
+* [Ruby](https://www.ruby-lang.org/en/)
+* [React](https://facebook.github.io/react/)/[Redux](http://redux.js.org/)
+* [Elixir](http://elixir-lang.org/)
+* [ES6](http://es6-features.org/#Constants)
+* Lists
