@@ -6,7 +6,7 @@ tags: about
 ---
 
 I am called Dan Weaver.
-  
+
 I use this site to:
 
 * Track my [weightlifing](https://en.wikipedia.org/wiki/Olympic_weightlifting) training
@@ -28,4 +28,5 @@ I like:
 * [React](https://facebook.github.io/react/)/[Redux](http://redux.js.org/)
 * [Elixir](http://elixir-lang.org/)
 * [ES6](http://es6-features.org/#Constants)
+* Heavy singles
 * Lists
