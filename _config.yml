@@ -1,8 +1,8 @@
 # Site settings
-title:       JGoggles
+title:       Supernatural Feat
 email:
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Dan Weaver
+description: "My blog about stuff"
 baseurl:     ""
 url:         ""
 date_format: "%b %-d, %Y"
@@ -42,7 +42,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username: 'jgoggles'
+github_username:
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
