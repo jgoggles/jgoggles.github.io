@@ -1,13 +1,13 @@
 ---
 title: A glorious shipwreck
 ---
-<h1>Hi. It's supernaturalfeat.com.</h1>
-
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      <h2>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date_to_string: "ordinal", "US" }}</span>
+      </h2>
     </li>
   {% endfor %}
 </ul>
