@@ -7,10 +7,6 @@ a {
 a:hover {
   color: #808080;
 }
-body {
-  margin: 0;
-  padding: 0;
-}
 h1,
 h2 {
   font-family: $SansSerif;
@@ -32,9 +28,6 @@ h2 {
 header {
   border-bottom: 1px solid #e8e8e8;
   padding: 18px 18px 8px 18px;
-}
-span.date {
-  font-size: 12px;
 }
 
 .container {
