@@ -1,11 +1,14 @@
 ---
 layout: default
 ---
-<article>
-  <h1>{{ page.title }}</h1>
-  <p>
-    {{ page.date | date_to_string: "ordinal", "US" }}
-  </p>
-
-  {{ content }}
-</article>
+<div class="blog-post-container">
+  <div class="blog-post">
+    <h2>{{ page.title }}</h2>
+    <h4>
+      {{ page.date | date_to_string: "ordinal", "US" }}
+    </h4>
+    <div class="blog-post-content">
+      {{ content }}
+    </div>
+  </div>
+</div>
