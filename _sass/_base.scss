@@ -29,6 +29,9 @@ header {
   border-bottom: 1px solid #e8e8e8;
   padding: 18px 18px 8px 18px;
 }
+pre {
+  white-space: pre-wrap;
+}
 
 .container {
   padding: 18px;
@@ -61,6 +64,10 @@ header {
 .blog-post-container {
   a {
     text-decoration: underline;
+  }
+
+  img {
+    max-width: 800px;
   }
   .footnote-backref,
   .reversefootnote {
