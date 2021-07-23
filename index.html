@@ -1,16 +1,8 @@
 ---
 title: A glorious shipwreck
 ---
-<div id="posts">
+<div>
   {% for post in site.posts %}
-    <div class="post-link">
-      <a href="{{ post.url }}">
-        <div>
-          {{post.title}}
-        </div>
-        <span class="date">{{ post.date | date_to_string: "ordinal", "US"
-        }}</span>
-      </a>
-    </div>
+    {% include post_index.html %}
   {% endfor %}
 </div>

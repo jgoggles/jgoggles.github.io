@@ -1,0 +1,9 @@
+<div class="post-link">
+  <a href="{{ post.url }}">
+    <div>
+      {{post.title}}
+    </div>
+    <span class="date">{{ post.date | date_to_string: "ordinal", "US"
+    }}</span>
+  </a>
+</div>

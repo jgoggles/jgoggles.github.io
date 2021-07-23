@@ -3,7 +3,7 @@ title: Now
 layout: page
 ---
 ## Now
-#### Jul, 2021
+#### Jul 2021
 
 Living in Vermont.
 
