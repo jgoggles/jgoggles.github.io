@@ -18,7 +18,7 @@ being authentic, having some moxie, having the right mix of enigma and
 magnetism. Cool is what you want to _be_ when you see it. Cool style is cool
 because it makes _you_ cool. Cool music is cool because only cool people listen
 to cool music. And it's not about marketing, it's about identity. All those traits I spitballed are
-generally positive, nobody wants to be described as a unoriginal, fake,
+generally positive, nobody wants to be described as unoriginal, fake,
 pathetic, predictable, or forgettable. That is unless it were cool to be as such since
 to be those things in the face of such non-coolness would close the loop and
 actually fit the spitballed definitions. And this is where things get
