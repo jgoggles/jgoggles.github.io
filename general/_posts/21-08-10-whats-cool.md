@@ -9,9 +9,8 @@ forced mathematical metaphors, idiotic genes, chaotic functions, shitheads*
 
 I'm middle aged and I wonder what is even cool anymore. This has to be a pretty common
 thing. But I also wonder if the state of our culture has rendered cool moot and
-that it actually doesn't exist anymore. Is cool only for youth and youthful
-nostalgia or did it actually used to be a thing and is actually not a thing
-anymore?
+that it actually no longer exists. Is cool only for youth and youthful
+nostalgia or did it actually used to be a thing and is actually now not a thing?
 
 First, taken at face value, let's look at what cool is supposed to be,
 traditionally. I'm not 100% sure so I'll just spitball: it's bucking trends,
