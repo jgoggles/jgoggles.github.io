@@ -2,24 +2,24 @@
 title: Now
 layout: page
 ---
+
 ## Now
-#### Jul 2021
+
+#### Oct 2021
 
 Living in Vermont.
-
-Building a fence.
 
 Raising some sheep and goats.
 
 Raising a Maremma livestock guardian puppy.
 
-Pretty into Pat the Bunny.
+Reading Clean Architecture by Robert Martin.
 
-Reading The First Law trilogy.
+Messing with Haskell.
 
-Unsubscribing from emails.
+Writing code at Vendr.
 
-Writing code at ezCater.
+Preparing for winter.
 
 <sub>[This is a this](https://nownownow.com/about)</sub>
 
