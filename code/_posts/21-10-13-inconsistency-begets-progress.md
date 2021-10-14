@@ -24,7 +24,7 @@ engineering org's institutional memory. It's ok, it happens everyday. But this
 memory, these established patterns, system components resting on complex houses
 of cards, these things are hard to change.
 
-One of the main reasons given for not undergoing any type of change in a
+One of the main reasons given for not taking on change within a
 codebase, even for the better, is the perceived need for wholesale changes.
 Wholesale changes are expensive, they require a lot of planning, cooperation,
 digressive action. The thinking is that we can't replace XYZ because XYZ is
