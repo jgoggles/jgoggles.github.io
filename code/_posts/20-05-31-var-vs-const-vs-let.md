@@ -7,8 +7,8 @@ But doing a quick investigation of their differences can also teach us some inte
 
 ## TLDR
 - `var` is function scoped and its variables can be accessed before they're declared (returns `undefined`)
-- `const` is block scoped and will return a `ReferenceError` if a variable is accessed before it's declared
-- `let` is block scoped and will return a `ReferenceError` if a variable is accessed before it's declared; cannot be reassigned
+- `let` is block scoped and will return a `ReferenceError` if a variable is accessed before it's declared
+- `const` is block scoped and will return a `ReferenceError` if a variable is accessed before it's declared; cannot be reassigned
 
 
 ## `var`

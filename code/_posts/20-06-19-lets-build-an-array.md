@@ -18,10 +18,10 @@ Elixir uses them. Probably some other languages that I haven't used use them
 too. A **list** is similar to an array in that it's a container for objects that
 you can iterate over. Lists have some unique properties though:
 
-1) Lists always consist of two elements: a **head** and a **tail**
-2) The head of a list can be anything (including other lists)
-3) The tail of a list is always itself a list
-4) Empty lists are `nil`
+1. Lists always consist of two elements: a **head** and a **tail**
+2. The head of a list can be anything (including other lists)
+3. The tail of a list is always itself a list
+4. Empty lists are `nil`
 
 That's it. Super simple but also super flexible as far as data structures go.
 Plus they're built for functional programming paradigms, as we'll see soon.
