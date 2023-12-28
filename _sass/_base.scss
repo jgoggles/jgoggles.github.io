@@ -3,6 +3,8 @@
 body {
   color: #353935;
   font-size: 24px;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 a {
@@ -34,6 +36,8 @@ h2 {
 header {
   border-bottom: 1px solid #e8e8e8;
   padding: 18px 18px 8px 18px;
+  h1 { margin-bottom: -10px; }
+  .tag { color: gray; font-size: 18px; }
 }
 pre {
   white-space: pre-wrap;
@@ -50,7 +54,6 @@ blockquote {
 
 .container {
   padding: 18px;
-  max-width: 800px;
 }
 
 .post-link {
