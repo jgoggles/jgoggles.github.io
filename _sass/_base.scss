@@ -48,8 +48,8 @@ blockquote {
   border-left: 2px solid #d8d8d8;
   font-family: $SansSerif;
   padding: 16px;
-  margin-left: 0;
-  width: 100%;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
 }
 
 .container {

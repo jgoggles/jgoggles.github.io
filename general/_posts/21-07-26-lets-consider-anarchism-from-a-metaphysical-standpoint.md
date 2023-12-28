@@ -49,10 +49,10 @@ things as they are - "push the boat with the current" as the Chinese idiom says.
 
 In describing the related concept of "no-mind", Alan Watts in his book
 _The Way of Zen_ says:
-> _It is a state of wholeness in which the mind functions freely and easily,
+> It is a state of wholeness in which the mind functions freely and easily,
 without the sensation of a second mind or ego standing over it with a club. If
 the ordinary man is one who has to walk by lifting his legs with his hands, the
-Taoist is one who has learned to let the legs walk by themselves._
+Taoist is one who has learned to let the legs walk by themselves.
 
 Don't impose the concept of "moving" onto walking. Just walk. Do not oppress
 your legs with your hands, do not oppress your mind with the burden of propulsion.
